@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more perfect and particular relation of the late great victorie in Scotland obtained over Montrosse and the rebels there, by the forces under the command of Lieutenant-Generall David Lesley, certified by an expresse the 16. of this instant from Hadington. Together with a list of the chiefe men of note taken prisoners and kild in the battell, and after in the pursuit. To which is likewise added a letter written from Master Balsame minister at Berwick, and dated the 17. of Septemb. 1645. to a minister in London concerning the said victory. Published by authority.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86252</idno>
+            <idno type="STC">Wing H157</idno>
+            <idno type="STC">Thomason E303_5</idno>
+            <idno type="STC">ESTC R200290</idno>
+            <idno type="EEBO-CITATION">99861096</idno>
+            <idno type="PROQUEST">99861096</idno>
+            <idno type="VID">113224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113224)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more perfect and particular relation of the late great victorie in Scotland obtained over Montrosse and the rebels there, by the forces under the command of Lieutenant-Generall David Lesley, certified by an expresse the 16. of this instant from Hadington. Together with a list of the chiefe men of note taken prisoners and kild in the battell, and after in the pursuit. To which is likewise added a letter written from Master Balsame minister at Berwick, and dated the 17. of Septemb. 1645. to a minister in London concerning the said victory. Published by authority.</title>
+                  <author>W. H.</author>
+                  <author>Balsome, Robert.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.B. for Robert Bostock at the Kings head in Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>25. Sep. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "more perfect and particular relation" is signed: W.H.</note>
+                  <note>The "letter written from Master Balsame" is signed: Ro. Balsome.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark, David Leslie, --  Baron, d. 1682.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Philiphaugh (Scotland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113224:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <p>A more perfect and particular RELATION OF THE Late great VICTORIE in Scotland Obtained over <hi>Montroſſe</hi> and the Rebels there, by the Forces under the Command of Lieute<g ref="char:EOLhyphen"/>nant-Generall <hi>David Leſley,</hi> certified by an Expreſſe the 16. of this inſtant from <hi>Hadington.</hi>
+            </p>
+            <p>Together with a Liſt of the chiefe men of note taken priſoners and kild in the battell, and after in the purſuit.</p>
+            <p>To which is likewiſe added a Letter written from Maſter <hi>Balſame</hi> Miniſter at <hi>Berwick,</hi> and dated the 17. of Septemb. 1645. to a Miniſter in <hi>London</hi> concerning the ſaid Victory.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed by <hi>M.B.</hi> for <hi>Robert Boſtock</hi> at the Kings head in Pauls Churchyard. 25. Sep. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_victory">
+            <pb facs="tcp:113224:2"/>
+            <!-- PDF PAGE 54 -->
+            <pb n="1" facs="tcp:113224:2"/>
+            <!-- PDF PAGE 54 -->
+            <head>A more perfect and particular Relation of the late great VICTORY in SCOTLAND, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Received yours of the 9. currant and in returne have ſent you a ſhort ac<g ref="char:EOLhyphen"/>compt of this late happy victory the Lord hath given us over our enemies: After the defeating of our Forces neer <hi>Kilſyth,</hi> all the Malignants in the Country runne in to him, but did not all much increaſe his ſtrength; the addition he received was in Horſe and Dragoons, whereof he ſtood in greateſt need, being removed into the low Country from the hills, which were upon all occaſions to him a ſhelter and place of retreat; the number of his Horſe and Dragoons were made up to about two thouſand, and ſo farre as I can learne, his whole ſtrength in Horſe and Foot did not amount to ſeven thouſand, but all theſe were not preſent at this laſt battell, for upon the releaſing of <hi>Lodowick Lindſey</hi> ſometime Earle of <hi>Craw<g ref="char:EOLhyphen"/>ford</hi> out of priſon, there aroſe ſome difference amongſt the Rebels, <hi>Montroſſe</hi> having promiſed to the Lord <hi>Gordon</hi> to make him Generall of the Horſe, for which the Earle of <hi>Crawford</hi> having a Commiſſion from the King before his impriſonment, was preferred by <hi>Mon<g ref="char:EOLhyphen"/>troſſe.</hi> This gave great cauſe of diſcontent to the Lord <hi>Gordon,</hi> and thereupon he retired with 500. men to his
+<pb n="2" facs="tcp:113224:3"/>
+               <!-- PDF PAGE 55 -->owne Country. Another occaſion of the diminution of his force was, That the Marqueſſe of <hi>Argyles</hi> Forces and the Earle of <hi>Seaforts</hi> had poſſeſſed themſelves of the Rebels Lands and Houſes in the North, and was ta<g ref="char:EOLhyphen"/>king order with their friends and adherents to reduce them to obedience; which moved the Enemy to ſend back into the North <hi>Colkittoch</hi> with 800. men to pro<g ref="char:EOLhyphen"/>tect their lands. With the reſt of their Forces the Ene<g ref="char:EOLhyphen"/>my marched Eaſtward to interrupt the leavy of our Forces that were raiſing in the Eaſterne and Southerne parts of the Kingdome. But upon Lieutenant-Gene<g ref="char:EOLhyphen"/>rall <hi>David Leſleyes</hi> comming into <hi>Berwick-ſhire,</hi> and Eaſt <hi>Lothian,</hi> he marched South toward <hi>Selhirke,</hi> where he might have the aſſiſtance of the Malignants and diſ-af<g ref="char:EOLhyphen"/>fected that live upon the Scottiſh and Engliſh borders. Upon Fryday the 12. of this inſtant (which was a day of Faſting and Humiliation) Lieutenant-Generall <hi>David Leſley</hi> with his Forces advanced within three miles of the Enemy, who were quartered in <hi>Philip Haugh,</hi> not farre from <hi>Selhirke,</hi> that night he ſent out two parties, who fell in upon their quarters, killed ſome, and gave them the alarme, which made them continue all night in Armes, and ours did the like. The morrow being Saturday the 13. our Forces marched toward the Ene<g ref="char:EOLhyphen"/>my, and came within view of them about ten in the morning; according to their uſuall manner they had made choice of a moſt advantagious ground wherein they had intrenched themſelves, having upon the one hand an unpaſſable Ditch, and on the other Dikes and Hedges, and where theſe were not ſtrong enough, they further fortified them by caſting up Ditches, and lined their Hedges with Muſketeers. After viewing one ano<g ref="char:EOLhyphen"/>ther, there came out three horſes from each ſide, and
+<pb n="3" facs="tcp:113224:3"/>
+               <!-- PDF PAGE 55 -->after ſkirmiſhing very gallantly about a quarter of an houre, the Enemies three were beaten in; after this, the Enemy ſent out a partee of 200 Muſketeeers, who were forced by ours to retreat in great diſorder, whereupon the Van of our Forces advanced, and for almoſt an houre (being betweene eleven and twelve of the clock) it was hotly diſputed, our Horſe endeavouring to break thorow, and the Enemy with great reſolution main<g ref="char:EOLhyphen"/>taining their ground; at length Lieutenant-Generall <hi>David Leſley</hi> charging very deſperately upon the head of his own Regiment, broke the body of the Enemies Foot, after which they went all in confuſion and diſor<g ref="char:EOLhyphen"/>der, and the Horſe wanting their Foot were not able to make great oppoſition; the Foot were all cut off &amp; taken, whereof an hundred were Iriſh, who were all ſince ſhot at a Poſt, many of the Horſe killed upon the place, and ma<g ref="char:EOLhyphen"/>ny taken, but more in the purſuit, for they rallied again, which occaſioned their greater overthrow, and gave opportunity to our Horſe to reincounter them: Here the Earle of <hi>Crawford</hi> the Generall of their Horſe was killed, the Lord <hi>Ogleby,</hi> and <hi>Nathaniel Gordon</hi> one of their moſt active Commanders were taken: of the Foot and Horſe it is conceived there is betweene two and three thouſand killed. I have herewith ſent you a Liſt of the chiefe Priſoners taken, and the perſons of note that were kild, ſo farre as is yet come to our knowledge, there are divers others kild and taken, whoſe names I have not for the preſent, but ſhall ſend them by the next occaſion. It is remarkable, that God ſhould caſt into our hands againe thoſe priſoners that were delived up baſely by the Malignants in <hi>Edinburgh.</hi> We loſt of our ſide Captaine <hi>Barclay,</hi> and Captaine <hi>Dundaſſe,</hi> and a very
+<pb n="4" facs="tcp:113224:4"/>
+               <!-- PDF PAGE 56 -->few Souldiers, but have divers wounded, yet kild and wounded there are in all not above an hundred. The Lord of Hoſts put a ſpirit of courage in our Officers and Souldiers, and all of them behaved themſelves re<g ref="char:EOLhyphen"/>ſolutely: If I were to ſpeak to the praiſe of men, I might ſay much for Lieutenant-Generall <hi>Leſley,</hi> and Generall-Major <hi>Midaleton,</hi> and others, but though they deſerve it, I know they deſire it not, but that we ſhould magnifie him that enabled them. <hi>Montroſſe</hi> himſelfe ſcaped with a few Horſe, leaving behinde him all his Baggage, amongſt which is found his own Commiſſion from the King; and divers other Commiſſions for Lieutenants in the ſeve<g ref="char:EOLhyphen"/>rall Counties, together with a Roll of all ſuch as have received protections from him, which will be a good <hi>vidimus</hi> for the payment of our Souldiers. Some ſay that <hi>Montroſſe</hi> is fled to the Caſtle of <hi>Dowglaſſe,</hi> others report him to be taken about <hi>Evingdall,</hi> but I can re<g ref="char:EOLhyphen"/>port none of theſe for a truth, onely it is certaine, he is not viſible but in corners. Since the battell divers of the Enemies Souldiers are kild and taken by the Coun<g ref="char:EOLhyphen"/>try people. Lieutenant-Generall <hi>Leſley</hi> is gone to <hi>Glaſ<g ref="char:EOLhyphen"/>gow,</hi> and Generall-Major <hi>Middleton</hi> to <hi>Sterling,</hi> to in<g ref="char:EOLhyphen"/>tercept at theſe two paſſages ſuch of the Enemy as ſhall endevour to goe Northward. Sir <hi>James Hacket</hi> is ſent to the Generall to ſtop his march Northward, and I hope Lieutenant-Generall <hi>Leſley</hi> ſhall returne ſhortly with moſt of the Horſe.</p>
+            <p>The mercies of the Lord our God have beene won<g ref="char:EOLhyphen"/>full towards us, we had many warnings before this late ſad houre of darkneſſe, but the Lord hath delivered us as in a moment, he hath wrought ſalvation for his owne Names ſake. O how free, how undeſerved, how
+<pb n="5" facs="tcp:113224:4"/>
+               <!-- PDF PAGE 56 -->ſeaſonable a mercy, not onely deſtroyed our profeſſed enemies, but diſcovered our ſecret and boſome adver<g ref="char:EOLhyphen"/>ſaries. To God be all the glory, and let his people have the comfort and right uſe of it, which is the earneſt deſire and hearty prayer of</p>
+            <closer>
+               <dateline>Hadington <date>16 Sept. 1644.</date>
+               </dateline>
+               <signed>Your affectionate friend, W. H.</signed>
+            </closer>
+            <postscript>
+               <p>It was generally reported here that Major-Generall <hi>Monro</hi> was landed in the Weſt with two thou<g ref="char:EOLhyphen"/>ſand men; but I can aſſure you there is no ſuch thing, he is farre advanced in <hi>Ireland</hi> with his whole Forces.</p>
+            </postscript>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:113224:5"/>
+            <!-- PDF PAGE 57 -->
+            <head>Priſoners of note taken, beſides thoſe were killed at the Battell fought at <hi>Philip-Haugh,</hi> within three miles of <hi>Selkirk</hi> in <hi>Tivi<g ref="char:EOLhyphen"/>otdale.</hi> upon the 13. <hi>Septemb<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan>.</hi> 1645. and ſince in the purſuit.</head>
+            <list>
+               <head>Perſons of note taken.</head>
+               <item>THe Earl of <hi>Traquaire.</hi>
+               </item>
+               <item>Lord <hi>Seaton.</hi>
+               </item>
+               <item>Lord <hi>Drummond.</hi>
+               </item>
+               <item>Lord <hi>Ogleby.</hi>
+               </item>
+               <item>Lord <hi>Gray.</hi>
+               </item>
+               <item>Lord <hi>Linton.</hi>
+               </item>
+               <item>The Lord <hi>Napers</hi> eldeſt Sonne.</item>
+               <item>The Baron of <hi>Drum,</hi> youn<g ref="char:EOLhyphen"/>ger.</item>
+               <item>The Baron of <hi>Reaſyth.</hi>
+               </item>
+               <item>The Lord of <hi>Derceys</hi> el<g ref="char:EOLhyphen"/>deſt Sonne, Grandchild to the late pretended Archbiſhop of S. <hi>Andews</hi>
+               </item>
+               <item>The Laird of <hi>Pury Ogleby</hi> the younger.</item>
+               <item>Sir <hi>Robert Spotswood,</hi> pre<g ref="char:EOLhyphen"/>tended Secretary of State, and Sonne to the late pretended Archbi<g ref="char:EOLhyphen"/>ſhop of S. <hi>Andrews.</hi>
+               </item>
+               <item>Sir <hi>John Hay,</hi> ſometimes Clarke Regiſter.</item>
+               <item>Sir <hi>James Dowglas,</hi> Sonne to the Earle of <hi>Morton</hi>-</item>
+               <item>Sir <hi>David Murray.</hi>
+               </item>
+               <item>Sir <hi>John Byres.</hi>
+               </item>
+               <item>Sir <hi>Nathaniel Gordon.</hi>
+               </item>
+               <item>Sir <hi>Alexander Leſly,</hi> Serje<g ref="char:EOLhyphen"/>ant Major Generall.</item>
+               <item>Sir <hi>William Rollock.</hi>
+               </item>
+               <item>
+                  <hi>William Murray,</hi> Brother to the Earle of <hi>Tullibrand.</hi>
+               </item>
+               <item>Colonell <hi>William Stewart,</hi> adjutant-Generall.</item>
+               <item>Coloneli <hi>James Hay.</hi>
+               </item>
+               <item>
+                  <hi>O Cain,</hi> Lieutenant-Colo<g ref="char:EOLhyphen"/>nell to the Iriſh.</item>
+               <item>The Serjeant Major to the Earle of <hi>Antrim,</hi> and di<g ref="char:EOLhyphen"/>vers Gentlemen.</item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:113224:5"/>
+               <!-- PDF PAGE 57 -->
+               <head>Perſons of note killed.</head>
+               <item>
+                  <hi>Lodwick Lindſay,</hi> ſome<g ref="char:EOLhyphen"/>time Earle of <hi>Craford,</hi> Generall of the Horſe.</item>
+               <item>The Barron of <hi>Junerleith.</hi>
+               </item>
+               <item>The Barron of <hi>Tough.</hi>
+               </item>
+               <item>The Barron of <hi>Cambuſne<g ref="char:EOLhyphen"/>then</hi> younger.</item>
+               <item>Souldiers, betweene two thouſand &amp; three thou<g ref="char:EOLhyphen"/>ſand.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <head>A true Copy of a Letter written by Maſter <hi>Robert Balſome,</hi> one of the Prea<g ref="char:EOLhyphen"/>chers ſent by the Committee of Par<g ref="char:EOLhyphen"/>liament into the North, to a Miniſter in London.</head>
+            <opener>
+               <salute>Deare Brother:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>Le tell thee good newes, <hi>Scotland</hi> is living, new<g ref="char:EOLhyphen"/>ly raiſed from the dead, <hi>Montroſſe</hi> utterly o<g ref="char:EOLhyphen"/>verthrowne, being as ripe for judgement as ever I heard of any wretch, either in theſe or former times: Ma<g ref="char:EOLhyphen"/>ſter <hi>Rowe</hi> told me, who was at the Fight, that ma<g ref="char:EOLhyphen"/>ny
+<pb n="8" facs="tcp:113224:6"/>
+               <!-- PDF PAGE 58 -->women when his Army came. were forced by the violence of the unchaſte Souldier, and divers young Virgins were carryed away Captives in the Army, with whom the Souldiers committed fil<g ref="char:EOLhyphen"/>thineſſe in open places where the Campe lay, the Officers firſt taking, and then the Souldiers in joy<g ref="char:EOLhyphen"/>ing what they left: it was the voyce of the Coun<g ref="char:EOLhyphen"/>try, almoſt in every womans mouth, God hath ſha<g ref="char:EOLhyphen"/>med us, and whether ſhall we cauſe our ſhame to goe? But behold when the Enemie was thus ripe in ſinne, the Lord cuts him off in an inſtant: Ma<g ref="char:EOLhyphen"/>ny things are very remarkable, as
+<list>
+                  <item>1 That having ſo long a time after the laſt great Victory before <hi>Leſly</hi> came, yet had they not gotten many thouſands together.</item>
+                  <item>2 That all this time not one Miniſter hath com<g ref="char:EOLhyphen"/>plyed with them, either to preach to them or pray with them.</item>
+                  <item>3 That the Lord gave the Victory in the ſpace of an houre.</item>
+                  <item>4 That it was by an inconſiderable Party, not above five Regiments of Horſe.</item>
+                  <item>5 It was onely with the loſſe of fifteene Com<g ref="char:EOLhyphen"/>mon Souldiers, and one Captaine on our ſide.</item>
+                  <item>6 That it was the next day after the Faſt.</item>
+                  <item>
+                     <pb n="9" facs="tcp:113224:6"/>
+                     <!-- PDF PAGE 58 -->
+7 That a paper Booke was taken, in which were the names of all that either were come in, or intended to come in to <hi>Montroſſe,</hi> ſo as that all the rotten Members in the Kingdome are diſcovered in an houre, and many of them cut off in a ſhort time; the Souldiers after the Victo<g ref="char:EOLhyphen"/>ry cryed out, Give all the Glory to God and none to us.</item>
+               </list>
+            </p>
+            <p>We have had in <hi>Barwick,</hi> ſince theſe troubles, many of the beſt affected in <hi>Scotland,</hi> I have not met with ſuch a people, not one of them, as I could either ſpeake with, or heare of, that dif<g ref="char:EOLhyphen"/>fered from the reſt in opinion; a gracious pray<g ref="char:EOLhyphen"/>ing people, laying hold on Chriſt, who is the onely ſubiect of their diſcourſe; I am perſwa<g ref="char:EOLhyphen"/>ded, though they are not many in compariſon of the Kingdome, in whom is found the po<g ref="char:EOLhyphen"/>wer of Religion, yet their being of one minde and one ſoul, makes them exceeding prevalent with God I could give thee many a Relation concerning them, which would glad thy heart, but I am in haſte; I hope you will heare more large Relations from others; many Priſoners are taken up every day by the Country people,
+<pb n="10" facs="tcp:113224:7"/>
+               <!-- PDF PAGE 59 -->many of them they kill in the place where they find them; But I muſt conclude, Remember me to all with thee, faile not to write by the next Poſt, to him who is</p>
+            <closer>
+               <dateline>Barwick, <date>Septemb. 17. 1645.</date>
+               </dateline>
+               <signed>Thine in the beſt Bonds, <hi>Ro. BALSOME.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
